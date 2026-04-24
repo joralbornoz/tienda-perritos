@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tienda de Alimentos para Perritos 🐶
 
 Aplicación de ejemplo en 3 capas usando Docker y Docker Compose:
@@ -52,3 +53,6 @@ docker compose down
 
 - La base de datos se inicializa automáticamente con el script `db/init.sql` en el primer arranque.
 - Puedes modificar el frontend y backend, reconstruir y volver a levantar los contenedores.
+=======
+# tienda-perritos
+>>>>>>> e1efce4ce38dfc86afec6edcccd3f7015995c161
